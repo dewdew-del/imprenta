@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="216" height="216" viewBox="0 0 108 108">
+  <!-- Same drawing as android/app/src/main/res/drawable/ic_launcher_foreground.xml -->
+  <rect width="108" height="108" rx="24" fill="#FAFAF8"/>
+  <path d="M41,33 L67,33 L67,75 L41,75 Z" fill="#FFFFFF" stroke="#2A2A28" stroke-width="2.5"/>
+  <path d="M46,42 L58,42 M46,48 L62,48 M46,53 L62,53 M46,58 L56,58" fill="none" stroke="#2A2A28" stroke-width="2" stroke-linecap="round"/>
+  <path d="M46,68 L62,68" fill="none" stroke="#3E9B6A" stroke-width="2" stroke-linecap="round"/>
+</svg>

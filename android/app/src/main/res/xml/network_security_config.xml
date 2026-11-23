@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- IPP runs over plain HTTP on port 631, and the printer's IP depends on the network
+     (192.168.223.1 on WiFi Direct, anything on home WiFi). The app talks to nothing else. -->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true" />
+</network-security-config>
