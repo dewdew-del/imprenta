@@ -1,6 +1,6 @@
 # Imprenta
 
-**Live demo:** coming soon (the APK will be on GitHub Releases after the first push)
+**Live demo:** [Download the APK (v1.0.0)](https://github.com/dewdew-del/imprenta/releases/tag/v1.0.0). Android app, install it on an Android 10+ phone.
 
 Print PDFs and photos from an Android phone to an HP Smart Tank 580 at the paper size you actually loaded: 8.5 × 13 (Long), Legal, Letter, A4 or a custom size. Nothing gets cut off at the bottom.
 
