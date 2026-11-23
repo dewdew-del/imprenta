@@ -546,11 +546,10 @@ class _HomeScreenState extends State<HomeScreen> with WidgetsBindingObserver {
         height: height,
         width: width,
         clipBehavior: Clip.hardEdge,
-        decoration: BoxDecoration(
-          color: Colors.white,
-          border: Border.all(color: line),
-          borderRadius: BorderRadius.circular(2),
-        ),
+        decoration: BoxDecoration(color: Colors.white, borderRadius: BorderRadius.circular(2)),
+        // Outline drawn on top: as a normal border it insets the child 1px per side, which stretched the
+        // page image ~0.8% and made it look off-center to the right.
+        foregroundDecoration: BoxDecoration(border: Border.all(color: line), borderRadius: BorderRadius.circular(2)),
         child: content,
       ),
     );
