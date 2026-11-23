@@ -81,8 +81,8 @@ Goal: find out what the printer accepts over IPP. This decides if the rest of th
 
 ### Phase 5: Portfolio polish
 - [x] App icon and name (adaptive vector icon: a tall 8.5x13 sheet; label "Imprenta")
-- [ ] README with screenshots and "Problem I solved" (text written; screenshots after the final test)
-- [ ] Release APK on GitHub Releases (APK builds, 47.6 MB, signed with the debug key; GitHub push pending)
+- [x] README with screenshots and "Problem I solved"
+- [x] Release APK on GitHub Releases (v1.0.0, signed with the debug key)
 - [ ] 30-second demo video (Dewdew records)
 
 ## Project structure (target)
